@@ -6,8 +6,5 @@ class B {
     id: "",
     nome: ""
 }
-classe C { id: "", nome: "" }
-classe D { id: "", nome: "" }
-classe E { }
-
-class D {}
+classe C { id: ""
+, nome: "" }
