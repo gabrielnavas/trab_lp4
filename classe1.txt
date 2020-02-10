@@ -1,2 +1,9 @@
-class A {}
-class B {}
+class A {
+    id: "",
+    nome: ""
+}
+class B {
+    id: "",
+    nome: ""
+}
+classe C { }
