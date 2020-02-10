@@ -7,3 +7,7 @@ class B {
     nome: ""
 }
 classe C { }
+classe D {
+    id: "",
+    nome: ""
+}
