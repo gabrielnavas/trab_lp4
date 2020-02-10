@@ -9,3 +9,5 @@ class B {
 classe C { id: "", nome: "" }
 classe D { id: "", nome: "" }
 classe E { }
+
+class D {}
