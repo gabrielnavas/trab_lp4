@@ -20,3 +20,5 @@ classe H {}
 classe I {}
 
 classe J {}
+
+class Z2 {}
