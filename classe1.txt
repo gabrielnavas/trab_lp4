@@ -8,9 +8,28 @@ class B {
 }
 classe C { id: "", nome: "" }
 
-class C {}
+class D {}
 
-Class D {}
+Class E {}
 
+<<<<<<< HEAD
 class E {}
 class F{}
+=======
+class F {}
+class G {}
+
+classe H {}
+
+classe I {}
+
+classe J {}
+
+classe K { qqcoisa }
+
+
+
+
+
+bbbbbbbbbbbbbbbbbbb
+>>>>>>> 1ef3c7aaa07362298568c2605edfc3757bc39a1b
