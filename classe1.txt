@@ -16,3 +16,5 @@ class F {}
 class G {}
 
 classe H {}
+
+classe I {}
