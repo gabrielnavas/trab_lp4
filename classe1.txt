@@ -18,3 +18,5 @@ class G {}
 classe H {}
 
 classe I {}
+
+classe J {}
