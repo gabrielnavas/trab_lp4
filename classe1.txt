@@ -13,3 +13,4 @@ class C {}
 Class D {}
 
 class E {}
+class F2 {}
