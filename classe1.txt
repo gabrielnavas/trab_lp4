@@ -11,3 +11,5 @@ classe C { id: "", nome: "" }
 class C {}
 
 Class D {}
+
+class E {}
