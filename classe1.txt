@@ -21,7 +21,7 @@ classe I {}
 
 classe J {}
 
-classe K {}
+classe K { qqcoisa }
 
 
 
