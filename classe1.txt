@@ -8,3 +8,5 @@ class B {
 }
 classe C { id: ""
 , nome: "" }
+
+class C {}
