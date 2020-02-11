@@ -21,4 +21,4 @@ classe I {}
 
 classe J {}
 
-class Z2 {}
+classe K {}
